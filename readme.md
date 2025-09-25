@@ -6,7 +6,7 @@
 - Selenium 4.23
 - NUnit 4.1.0
 
-### The testing browser can be choosen from the appsettins.json file.
+### The testing browser can be chosen from the appsettins.json file.
 * For Chrome - browserName: chrome
 * For headless Chrome - browserName: headless
 * For Firefox - browserName: firefox
