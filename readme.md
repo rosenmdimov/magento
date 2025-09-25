@@ -12,5 +12,5 @@
 * For Firefox - browserName: firefox
 
 ### The base URL is: https://magento.softwaretestingboard.com
-### It can be changed from appsettings.jason 
+### It can be changed from appsettings.json 
 * basePage: https://test.magento.softwaretestingboard.com
